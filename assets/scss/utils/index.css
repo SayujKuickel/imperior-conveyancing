@@ -1,0 +1,173 @@
+.banner-home-bg {
+  background: linear-gradient(90deg, rgba(255, 61, 0, 0.1) 0.19%, rgba(255, 177, 152, 0.1) 49.48%, rgba(255, 61, 0, 0.1) 99.8%);
+}
+
+.latest-feature-bg {
+  background-color: #fffbfa;
+}
+
+.latest-Choose-bg {
+  background-color: #fff;
+}
+
+.latest-service-bg {
+  background-color: #fafafa;
+}
+
+.latest-counter-bg {
+  background-color: #fff5f1;
+}
+
+.question-bg {
+  background-color: #fff;
+}
+
+.latest-team-bg {
+  background-color: #001d08;
+}
+
+.latest-project-bg {
+  background-color: #fff;
+}
+
+.latest-testimonial-bg {
+  background-color: #fff;
+}
+
+.latest-blog-bg {
+  background-color: #fff;
+}
+
+.latest-newsletter-bg {
+  background-color: #fafafa;
+}
+
+.footer-home-1-bg {
+  background-color: #fff5f1;
+}
+
+.footer__bottom-home-1-bg {
+  background-color: #001d08;
+}
+
+.latest-blog2-bg {
+  background-color: #fafafa;
+}
+
+.white-bg {
+  background: #fff !important;
+}
+
+.product-bg {
+  background: #fafafa;
+}
+
+.heading-color {
+  color: #001d08 !important;
+}
+
+.white-color {
+  color: #fff !important;
+}
+
+.gray-color {
+  color: #d8d9da !important;
+}
+
+/*home-3-feature-card-bg-color*/
+.frist-bg {
+  background: #f5f0ea;
+}
+
+.second-bg {
+  background: #e9eef4;
+}
+
+.thaird-bg {
+  background: #f2f1ec;
+}
+
+.banner-bg-3 {
+  background: #fcffea;
+}
+
+.body-color {
+  color: var(--rr-text-body) !important;
+}
+
+.happy-customer-bg {
+  background: #ffefeb;
+}
+
+.footer-home-3-bg {
+  background: #f5f5f5;
+}
+
+.bg-headr-3 {
+  background: var(--rr-common-white) !important;
+}
+
+.hover-theme:hover {
+  color: red;
+}
+
+/* transform */
+:root {
+  /**
+  @font family declaration
+  */
+  --rr-ff-body: 'Plus Jakarta Sans', sans-serif;
+  --rr-ff-heading: 'Plus Jakarta Sans', sans-serif;
+  --rr-ff-subtitle: 'Plus Jakarta Sans';
+  --rr-ff-fontawesome: "Font Awesome 6 Pro";
+  /**
+  @color declaration
+  */
+  --rr-common-white: #ffffff;
+  --rr-common-black: #000000;
+  --rr-common-placeholder: #4a5764;
+  --rr-body-primary: #fff;
+  --rr-theme-primary: #ffaa00;
+  --rr-theme-secondary: #07cbeb;
+  --rr-heading-primary: #ffaa00;
+  --rr-text-body: #727272;
+  --rr-text-primary: #000;
+  --rr-shadow-primary: 0px 30px 60px 0px rgba(0, 15, 32, 0.1);
+  --rr-background-gray: #f1f5eb;
+  --rr-background-dark-green: #ffaa00;
+  --rr-border-primary: 1px solid #e3dbd8;
+  /**
+  @font weight declaration
+  */
+  --rr-fw-normal: normal;
+  --rr-fw-thin: 100;
+  --rr-fw-elight: 200;
+  --rr-fw-light: 300;
+  --rr-fw-regular: 400;
+  --rr-fw-medium: 500;
+  --rr-fw-sbold: 600;
+  --rr-fw-bold: 700;
+  --rr-fw-ebold: 800;
+  --rr-fw-black: 900;
+  /**
+  @font size declaration
+  */
+  --rr-fs-body: 16px;
+  --rr-fs-body2: 18px;
+  --rr-fs-p: 16px;
+  --rr-fs-h1: 80px;
+  --rr-fs-h2: 50px;
+  --rr-fs-h3: 30px;
+  --rr-fs-h4: 24px;
+  --rr-fs-h5: 22px;
+  --rr-fs-h6: 18px;
+  --rr-lh-body: 28px;
+  --rr-lh-body2: 26px;
+  --rr-lh-p: 26px;
+  --rr-lh-h1: 90px;
+  --rr-lh-h2: 60px;
+  --rr-lh-h3: 36px;
+  --rr-lh-h4: 28px;
+  --rr-lh-h5: 30px;
+  --rr-lh-h6: 28px;
+}/*# sourceMappingURL=index.css.map */
